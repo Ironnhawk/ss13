@@ -10,6 +10,7 @@ SS13.info
   - Templates
   - Code Snippets
   
+- SS14 Remakes
 - SS13 Repo Links
   - Skyrat
   - TG
