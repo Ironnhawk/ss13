@@ -2,7 +2,8 @@
 SS13.info
 
 
-## TODO
+## Planning
+
 - Server Listing
 - Sharing
   - Maps
