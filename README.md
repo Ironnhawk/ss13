@@ -2,9 +2,14 @@
 SS13.info
 
 
-# TODO
+## TODO
 - Server Listing
-- SS13 Map Storage
+- Sharing
+  - Maps
+  - Sprites
+  - Templates
+  - Code Snippets
+  
 - SS13 Repo Links
   - Skyrat
   - TG
@@ -17,5 +22,15 @@ SS13.info
 - SS13 Webmap Tool
   - https://github.com/AffectedArc07/SS13WebMap
 - SS13 Wiki / By Repo
+  - Tutorials
+    - Spriting
+    - Mapping
+    - Hosting
 - SS13 Tools
   - StrongDMM
+ 
+ ## Ideas
+ - Spriting Tool
+ - Webmap tool
+
+
